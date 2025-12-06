@@ -26,4 +26,4 @@ This project focuses on using basic geometric shapes to procedurally draw a styl
     ```
 
 ---
-*Created by [LumiaAero88]*
+*Created by LumiaAero88*
